@@ -28,21 +28,21 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'landing-page.jpg',
+    title: 'Mock trave website',
+    info: 'Travel website made with CSS and HTML',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cupcakes-code/C-project-array.git', // if no repo, the button will not show up
+    url: 'https://travelag.netlify.app/',
+    repo: 'https://github.com/cupcakes-code/rea', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'todolist.jpg',
+    title: 'To do list',
+    info: 'Simple to do list made with React using Javascript, Html and CSS',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://cupcakes-code.github.io/proj2/',
+    repo: 'https://github.com/cupcakes-code/proj2', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
